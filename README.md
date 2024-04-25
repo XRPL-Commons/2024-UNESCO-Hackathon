@@ -67,7 +67,7 @@ Long: This theme is all about bringing new identity products to life within the 
 
 
 - Luc (XRPL Commons) Business and General Technology
-- David (XRPL Commons) Business & Opportunity
+- Guillaume (XRPL Commons) Technology
 
 
 -------------
