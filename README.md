@@ -1,4 +1,4 @@
-# April 2024 Hackathons
+# May 2024 HAKS Hackathon
 
 
 ------------
@@ -53,6 +53,8 @@ Long: This theme is all about bringing new identity products to life within the 
 - Build on Mainnet and XRPL EM Sidechain
 - All projects must have a component on mainnet
 
+## Judging
+
 4 criteria are equaly weighted
 - idea (the originality of the idea)
 - implementation (the quality of the code and soundness of the architecture)
@@ -63,11 +65,7 @@ Long: This theme is all about bringing new identity products to life within the 
 -------------
 ## Mentors
 
-- Marco (Ripple) Developer Relations Philosophy 
-- Jason (Ripple) Developer Relations Payments
-- Abner (Ripple) Developer Relations Mainnet
-- Hussein (XRP Cafe) NFT Ninja and Crypto Master
-- Thomas Hussenet (Cypher Labs) Cryptography 
+
 - Luc (XRPL Commons) Business and General Technology
 - David (XRPL Commons) Business & Opportunity
 
