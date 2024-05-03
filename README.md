@@ -25,6 +25,9 @@ https://github.com/XRPL-Commons/Jan2024_EVM_Links
 ### Using and EVM smart contract
 https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
 
+### Training Resources (April 2024)
+https://github.com/XRPL-Commons/xrpl-training-april-2024
+
 
 
 -------
