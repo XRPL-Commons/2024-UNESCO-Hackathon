@@ -1,6 +1,7 @@
 # May 2024 HAKS Hackathon
 
-
+ZOOM
+https://us06web.zoom.us/j/87224619634?pwd=9HX6KGSeEaEt6jCp88c5puZoI4HIs5.1
 ------------
 ## links
 
